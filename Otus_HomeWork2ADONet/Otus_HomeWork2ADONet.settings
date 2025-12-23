@@ -1,0 +1,7 @@
+{
+  "PostgresServer": "localhost",
+  "PostgresPort": 5432,
+  "PostgresUsername": "postgres",
+  "PostgresPassword": "111111",
+  "DatabaseName": "VirtualShopDB"
+}

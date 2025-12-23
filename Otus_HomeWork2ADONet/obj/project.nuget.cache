@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "K8alvqK29lM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\source\\repos\\Otus_HomeWork2ADONet\\Otus_HomeWork2ADONet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\npgsql\\8.0.8\\npgsql.8.0.8.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Произошла ошибка при получении данных уязвимости пакета: Не удалось загрузить индекс службы для источника https://nexus.suek.ru/repository/nuget/index.json."
+    }
+  ]
+}
