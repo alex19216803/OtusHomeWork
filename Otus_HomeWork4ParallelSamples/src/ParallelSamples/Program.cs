@@ -36,7 +36,7 @@ class Program
             {
                 sequentialSum = SequentialSum(array);
             });
-            Console.Write($" {sequentialTime/60,16:F2} мс |");
+            Console.Write($" {sequentialTime,16:F2} мс |");
 
             // 2. Параллельное суммирование с использованием Thread
             long parallelThreadSum = 0;
@@ -44,7 +44,7 @@ class Program
             {
                 parallelThreadSum = ParallelSumWithThreads(array);
             });
-            Console.Write($" {parallelThreadTime/30,20:F2} мс |");
+            Console.Write($" {parallelThreadTime,20:F2} мс |");
 
             // 3. Параллельное суммирование с помощью LINQ
             long parallelLinqSum = 0;
@@ -52,7 +52,7 @@ class Program
             {
                 parallelLinqSum = ParallelSumWithLinq(array);
             });
-            Console.Write($" {parallelLinqTime/70,18:F2} мс |");
+            Console.Write($" {parallelLinqTime,18:F2} мс |");
 
             // Проверка корректности результатов
             if (sequentialSum != parallelThreadSum || sequentialSum != parallelLinqSum)
@@ -161,7 +161,7 @@ class Program
     {
         Console.WriteLine($"ОС: {Environment.OSVersion}");
         Console.WriteLine($"Версия .NET: {Environment.Version}");
-        Console.WriteLine($"Процессоров: {Environment.ProcessorCount*4}");
+        Console.WriteLine($"Процессоров: {Environment.ProcessorCount}");
         Console.WriteLine($"64-битная система: {Environment.Is64BitOperatingSystem}");
         Console.WriteLine($"Имя компьютера: {Environment.MachineName}");
         Console.WriteLine($"Пользователь: {Environment.UserName}");
