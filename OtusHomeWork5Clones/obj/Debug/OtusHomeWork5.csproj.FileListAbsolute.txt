@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\OtusHomeWork5\obj\Debug\OtusHomeWork5.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\OtusHomeWork5\obj\Debug\OtusHomeWork5.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\OtusHomeWork5\bin\Debug\OtusHomeWork5.exe.config
+C:\Users\Alex\source\repos\OtusHomeWork5\bin\Debug\OtusHomeWork5.exe
+C:\Users\Alex\source\repos\OtusHomeWork5\bin\Debug\OtusHomeWork5.pdb
+C:\Users\Alex\source\repos\OtusHomeWork5\obj\Debug\OtusHomeWork5.exe
+C:\Users\Alex\source\repos\OtusHomeWork5\obj\Debug\OtusHomeWork5.pdb
