@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\OtusHomeWork6solid\bin\Debug\net8.0\OtusHomeWork6solid.exe
+C:\Users\Alex\source\repos\OtusHomeWork6solid\bin\Debug\net8.0\OtusHomeWork6solid.deps.json
+C:\Users\Alex\source\repos\OtusHomeWork6solid\bin\Debug\net8.0\OtusHomeWork6solid.runtimeconfig.json
+C:\Users\Alex\source\repos\OtusHomeWork6solid\bin\Debug\net8.0\OtusHomeWork6solid.dll
+C:\Users\Alex\source\repos\OtusHomeWork6solid\bin\Debug\net8.0\OtusHomeWork6solid.pdb
+C:\Users\Alex\source\repos\OtusHomeWork6solid\obj\Debug\net8.0\OtusHomeWork6solid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\OtusHomeWork6solid\obj\Debug\net8.0\OtusHomeWork6solid.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\OtusHomeWork6solid\obj\Debug\net8.0\OtusHomeWork6solid.AssemblyInfo.cs
+C:\Users\Alex\source\repos\OtusHomeWork6solid\obj\Debug\net8.0\OtusHomeWork6solid.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\OtusHomeWork6solid\obj\Debug\net8.0\OtusHomeWork6solid.dll
+C:\Users\Alex\source\repos\OtusHomeWork6solid\obj\Debug\net8.0\refint\OtusHomeWork6solid.dll
+C:\Users\Alex\source\repos\OtusHomeWork6solid\obj\Debug\net8.0\OtusHomeWork6solid.pdb
+C:\Users\Alex\source\repos\OtusHomeWork6solid\obj\Debug\net8.0\OtusHomeWork6solid.genruntimeconfig.cache
+C:\Users\Alex\source\repos\OtusHomeWork6solid\obj\Debug\net8.0\ref\OtusHomeWork6solid.dll

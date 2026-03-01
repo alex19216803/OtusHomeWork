@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork6solid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB1B791-3C72-4C25-AEE5-0C59C8B8AB57}|OtusHomeWork6solid.csproj|c:\\users\\alex\\source\\repos\\otushomework6solid\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB1B791-3C72-4C25-AEE5-0C59C8B8AB57}|OtusHomeWork6solid.csproj|solutionrelative:gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB1B791-3C72-4C25-AEE5-0C59C8B8AB57}|OtusHomeWork6solid.csproj|c:\\users\\alex\\source\\repos\\otushomework6solid\\igamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB1B791-3C72-4C25-AEE5-0C59C8B8AB57}|OtusHomeWork6solid.csproj|solutionrelative:igamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB1B791-3C72-4C25-AEE5-0C59C8B8AB57}|OtusHomeWork6solid.csproj|c:\\users\\alex\\source\\repos\\otushomework6solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB1B791-3C72-4C25-AEE5-0C59C8B8AB57}|OtusHomeWork6solid.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB1B791-3C72-4C25-AEE5-0C59C8B8AB57}|OtusHomeWork6solid.csproj|c:\\users\\alex\\source\\repos\\otushomework6solid\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB1B791-3C72-4C25-AEE5-0C59C8B8AB57}|OtusHomeWork6solid.csproj|solutionrelative:gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB1B791-3C72-4C25-AEE5-0C59C8B8AB57}|OtusHomeWork6solid.csproj|c:\\users\\alex\\source\\repos\\otushomework6solid\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB1B791-3C72-4C25-AEE5-0C59C8B8AB57}|OtusHomeWork6solid.csproj|solutionrelative:consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB1B791-3C72-4C25-AEE5-0C59C8B8AB57}|OtusHomeWork6solid.csproj|c:\\users\\alex\\source\\repos\\otushomework6solid\\igameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB1B791-3C72-4C25-AEE5-0C59C8B8AB57}|OtusHomeWork6solid.csproj|solutionrelative:igameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB1B791-3C72-4C25-AEE5-0C59C8B8AB57}|OtusHomeWork6solid.csproj|c:\\users\\alex\\source\\repos\\otushomework6solid\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB1B791-3C72-4C25-AEE5-0C59C8B8AB57}|OtusHomeWork6solid.csproj|solutionrelative:filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB1B791-3C72-4C25-AEE5-0C59C8B8AB57}|OtusHomeWork6solid.csproj|c:\\users\\alex\\source\\repos\\otushomework6solid\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB1B791-3C72-4C25-AEE5-0C59C8B8AB57}|OtusHomeWork6solid.csproj|solutionrelative:consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB1B791-3C72-4C25-AEE5-0C59C8B8AB57}|OtusHomeWork6solid.csproj|c:\\users\\alex\\source\\repos\\otushomework6solid\\igamelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB1B791-3C72-4C25-AEE5-0C59C8B8AB57}|OtusHomeWork6solid.csproj|solutionrelative:igamelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB1B791-3C72-4C25-AEE5-0C59C8B8AB57}|OtusHomeWork6solid.csproj|c:\\users\\alex\\source\\repos\\otushomework6solid\\randomnumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB1B791-3C72-4C25-AEE5-0C59C8B8AB57}|OtusHomeWork6solid.csproj|solutionrelative:randomnumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB1B791-3C72-4C25-AEE5-0C59C8B8AB57}|OtusHomeWork6solid.csproj|c:\\users\\alex\\source\\repos\\otushomework6solid\\inumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB1B791-3C72-4C25-AEE5-0C59C8B8AB57}|OtusHomeWork6solid.csproj|solutionrelative:inumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameEngine.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork6solid\\GameEngine.cs",
+              "RelativeDocumentMoniker": "GameEngine.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork6solid\\GameEngine.cs",
+              "RelativeToolTip": "GameEngine.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwC4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T18:26:11.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork6solid\\FileLogger.cs",
+              "RelativeDocumentMoniker": "FileLogger.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork6solid\\FileLogger.cs",
+              "RelativeToolTip": "FileLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T18:25:11.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsoleLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork6solid\\ConsoleLogger.cs",
+              "RelativeDocumentMoniker": "ConsoleLogger.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork6solid\\ConsoleLogger.cs",
+              "RelativeToolTip": "ConsoleLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T18:24:53.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGameLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork6solid\\IGameLogger.cs",
+              "RelativeDocumentMoniker": "IGameLogger.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork6solid\\IGameLogger.cs",
+              "RelativeToolTip": "IGameLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T18:24:38.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RandomNumberGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork6solid\\RandomNumberGenerator.cs",
+              "RelativeDocumentMoniker": "RandomNumberGenerator.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork6solid\\RandomNumberGenerator.cs",
+              "RelativeToolTip": "RandomNumberGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T18:24:17.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "INumberGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork6solid\\INumberGenerator.cs",
+              "RelativeDocumentMoniker": "INumberGenerator.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork6solid\\INumberGenerator.cs",
+              "RelativeToolTip": "INumberGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T18:23:48.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork6solid\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork6solid\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T18:22:22.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork6solid\\GameSettings.cs",
+              "RelativeDocumentMoniker": "GameSettings.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork6solid\\GameSettings.cs",
+              "RelativeToolTip": "GameSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T18:23:23.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGameSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork6solid\\IGameSettings.cs",
+              "RelativeDocumentMoniker": "IGameSettings.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork6solid\\IGameSettings.cs",
+              "RelativeToolTip": "IGameSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T18:22:55.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGameUI.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork6solid\\IGameUI.cs",
+              "RelativeDocumentMoniker": "IGameUI.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork6solid\\IGameUI.cs",
+              "RelativeToolTip": "IGameUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T18:25:28.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleUI.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork6solid\\ConsoleUI.cs",
+              "RelativeDocumentMoniker": "ConsoleUI.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork6solid\\ConsoleUI.cs",
+              "RelativeToolTip": "ConsoleUI.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T18:25:49.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
