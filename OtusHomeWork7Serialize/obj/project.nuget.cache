@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/yh0ME/uJy0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork\\OtusHomeWork7Serialize\\OtusHomeWork7Serialize.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
