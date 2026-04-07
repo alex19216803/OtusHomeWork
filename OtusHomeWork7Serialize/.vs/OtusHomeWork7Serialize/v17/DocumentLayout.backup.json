@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork\\OtusHomeWork7Serialize\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC830D31-4BE0-0490-7BED-FD858D01ECE6}|OtusHomeWork7Serialize.csproj|c:\\users\\alex\\source\\repos\\otushomework\\otushomework7serialize\\reflectioncsvserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC830D31-4BE0-0490-7BED-FD858D01ECE6}|OtusHomeWork7Serialize.csproj|solutionrelative:reflectioncsvserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BC830D31-4BE0-0490-7BED-FD858D01ECE6}|OtusHomeWork7Serialize.csproj|c:\\users\\alex\\source\\repos\\otushomework\\otushomework7serialize\\sampleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC830D31-4BE0-0490-7BED-FD858D01ECE6}|OtusHomeWork7Serialize.csproj|solutionrelative:sampleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC830D31-4BE0-0490-7BED-FD858D01ECE6}|OtusHomeWork7Serialize.csproj|c:\\users\\alex\\source\\repos\\otushomework\\otushomework7serialize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC830D31-4BE0-0490-7BED-FD858D01ECE6}|OtusHomeWork7Serialize.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC830D31-4BE0-0490-7BED-FD858D01ECE6}|OtusHomeWork7Serialize.csproj|c:\\users\\alex\\source\\repos\\otushomework\\otushomework7serialize\\reflectioncsvserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC830D31-4BE0-0490-7BED-FD858D01ECE6}|OtusHomeWork7Serialize.csproj|solutionrelative:reflectioncsvserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,39 +30,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SampleClass.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork\\OtusHomeWork7Serialize\\SampleClass.cs",
               "RelativeDocumentMoniker": "SampleClass.cs",
               "ToolTip": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork\\OtusHomeWork7Serialize\\SampleClass.cs",
               "RelativeToolTip": "SampleClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-27T19:13:45.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ReflectionCsvSerializer.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork\\OtusHomeWork7Serialize\\ReflectionCsvSerializer.cs",
               "RelativeDocumentMoniker": "ReflectionCsvSerializer.cs",
               "ToolTip": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork\\OtusHomeWork7Serialize\\ReflectionCsvSerializer.cs",
               "RelativeToolTip": "ReflectionCsvSerializer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-27T19:13:27.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork\\OtusHomeWork7Serialize\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Alex\\source\\repos\\OtusHomeWork\\OtusHomeWork7Serialize\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-27T19:12:08.018Z",
               "EditorCaption": ""
